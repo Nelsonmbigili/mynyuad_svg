@@ -1,0 +1,5 @@
+.cls-3:hover, .cls-6:hover {
+  fill: purple !important;
+  transition: fill 0.3s ease; 
+  cursor: pointer;
+}
